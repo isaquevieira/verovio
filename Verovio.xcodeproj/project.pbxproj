@@ -1736,7 +1736,7 @@
 			children = (
 				4D723ACF25E77FDE0062E0A2 /* zip_file.hpp */,
 			);
-			path = zip;
+			name = zip;
 			sourceTree = "<group>";
 		};
 		4D7D8A3C1886E36200D78B62 /* tools */ = {
